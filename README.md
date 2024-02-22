@@ -1,3 +1,7 @@
 # angry-birds-with-tail
 Based on coding train Daniel Shiffman added a tail to bird 
-![image](https://github.com/ReinhardLenz/angry-birds-with-tail/assets/71219487/abeb2ceb-9b53-49cb-953e-221efde61aab)
+added a "tail" to the bird. This makes it more difficult.
+
+added a tree and other birds as obstacle. Chose good shooting angle and speed to hit the stacked beer glasses on the other side of the tree.
+
+![image](https://github.com/ReinhardLenz/angry-birds-with-tail/assets/71219487/0a92b505-ec53-4b8c-9e2c-7e6240b830aa)
