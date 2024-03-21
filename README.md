@@ -1,5 +1,5 @@
 # angry-birds-with-tail
-Based on coding train Daniel Shiffman added a tail to bird 
+Based on coding train added a tail to bird, and a tree obstacle 
 added a "tail" to the bird. This makes it more difficult.
 
 added a tree and other birds as obstacle. Chose good shooting angle and speed to hit the stacked beer glasses on the other side of the tree.
