@@ -28,11 +28,17 @@ This project is a practice/rehearsal in using Matter.js for physics-based intera
 🧩 File Breakdown
 File	Description
 bird.js	Defines the bird object, including its physics body and trailing "tail".
+
 box.js	Represents the stacked beer glasses (target objects) using rectangular bodies.
+
 tree.js	Adds a static obstacle (tree) between slingshot and target.
+
 slingshot.js	Creates the constraint that attaches the bird to the sling and handles release.
+
 ground.js	A simple static platform for the scene.
+
 sketch.js	The main script. Initializes engine, world, objects, and handles rendering.
+
 index.html	Loads all modules and the canvas.
 
 🛠 Technologies Used
