@@ -59,9 +59,6 @@ Slightly improved object structure and modularity.
 📁 How to Run
 Clone the repo:
 
-bash
-Copier
-Modifier
 git clone https://github.com/ReinhardLenz/angry-birds-with-tail.git
 Open index.html in a browser (no server required).
 
