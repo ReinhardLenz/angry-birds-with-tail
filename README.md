@@ -31,7 +31,6 @@ bird.js	Defines the bird object, including its physics body and trailing "tail".
 
 box.js	Represents the stacked beer glasses (target objects) using rectangular bodies.
 
-tree.js	Adds a static obstacle (tree) between slingshot and target.
 
 slingshot.js	Creates the constraint that attaches the bird to the sling and handles release.
 
