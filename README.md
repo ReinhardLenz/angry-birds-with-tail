@@ -70,3 +70,5 @@ Based on the excellent tutorials by Daniel Shiffman (Coding Train)
 Physics engine: Matter.js
 
 Improvements and visuals by Reinhard Lenz
+
+![Visitor Count](https://komarev.com/ghpvc/?username=ReinhardLenz&repo=angry-birds-with-tail&color=green)
