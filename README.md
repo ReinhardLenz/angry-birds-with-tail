@@ -14,6 +14,9 @@ The goal is to launch the bird over or around the tree and knock over the stacke
 ![image](https://github.com/ReinhardLenz/angry-birds-with-tail/assets/71219487/0a92b505-ec53-4b8c-9e2c-7e6240b830aa)
 
 
+https://raikkulenz.kapsi.fi/matter_test/slingshot-hedgehog-tree-rope-game.php
+
+
 🚀 Gameplay Overview
 Click and drag the bird to tighten the slingshot.
 
